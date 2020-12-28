@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> xyz</title>
+</head>
+<frameset cols="*,*">
+<frame>
+
+<frameset rows="*,*" name="left" >
+
+<frame name=sd>
+<frame name=dd>
+
+</html>
