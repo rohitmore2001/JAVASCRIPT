@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>ROHIT </title>
+</head>
+<body bgcolor=grey>GENDER              
+
+          <br>
+<input type=radio>MALE  <br>
+<input type=radio>FEMALE
+</body>
+</html>
