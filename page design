@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> rohan </title>
+<link rel="style sheet"
+             type="text/css"
+              href="abc.css">
+</head>
+<body bgcolor=yellow>
+<h2  style background-color:"green";text-decoration:"linethrough";>HOLIDAY<h2>
+</body>
+</html>
